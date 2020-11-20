@@ -1,3 +1,19 @@
+# Github GithubSearch
+Independent Project for Moringa Core
+
+#Description
+A single page application for searching github users and repositories. The site uses the Github API to perform searches on Github, and display the results to the users.The website is made using angular js framework, and uses components, custom directives, custom pipes, routing modules and classes to make the finished product.
+#Technologies Used
+HTML
+
+BOOTSTRAP
+
+Angular js
+#Known Bugs
+No Known Bugs So Far
+# License
+Copyright (c) Permission is hereby granted, free of charge, to any person obtaining a copy of this code
+
 # GithubSearch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
@@ -25,3 +41,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Contact me on waithakaisaac2016@gmail.com
